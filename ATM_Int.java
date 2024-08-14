@@ -9,7 +9,7 @@ public class ATMInterface {
    public int Pin;
    public String url="jdbc:mysql://localhost:3306/ATM";
    public String User="root";
-   public String Pass="Rohit123";
+   public String Pass="Praneeth123";
    Scanner sc=new Scanner(System.in);
     ATMInterface(){
 
